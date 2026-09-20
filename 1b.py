@@ -10,7 +10,6 @@ def create_lst(n):
   return result
 
 
-
 def threesum_brute(lst, s=0):
   result = []
   for i in range(len(lst) - 1):
