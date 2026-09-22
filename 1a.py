@@ -1,5 +1,6 @@
 import random
 
+
 def create_lst(n):
   result = []
 
